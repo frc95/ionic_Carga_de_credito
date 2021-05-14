@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.credito",
+  "appName": "Carga de credito",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 5000
+    }
+  },
+  "cordova": {}
+}

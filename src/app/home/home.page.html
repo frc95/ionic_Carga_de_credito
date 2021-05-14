@@ -1,0 +1,32 @@
+<ion-content [fullscreen]="true" [style.--background]="scanActive ? '#00000000' : '#fff'">
+
+
+  <!--<ion-button [hidden]="scanActive" style="height: 20%;" expand="full" (click)="Limpiar()" color="light"><img id=titulo src="assets/home/limpio.png"></ion-button>-->
+  <div [hidden]="scanActive" style="height: 50%;" class="message other-message">
+    <b>Saldo total</b><br>
+    <b>{{ credito }} $</b>
+  </div>
+
+  <ion-button [hidden]="scanActive" style="height: 30%;" expand="full" (click)="startScanner()"><img id=titulo src="assets/home/escaner.png"></ion-button>
+  <ion-button [hidden]="scanActive" style="height: 20%;" expand="full" (click)="Logout()" color="danger"><img id=titulo src="assets/home/cerrar.png"></ion-button>
+
+  <ion-row class="scanner-buttons" [hidden]="!scanActive">
+    <ion-col class="ion-no-padding">
+      <ion-button expand="full" (click)="stopScanner()">Salir</ion-button>
+    </ion-col>
+  </ion-row>
+
+  <div class="scan-box" [hidden]="!scanActive"></div>
+
+  <div class="box show" *ngIf="alert">
+    <span><ion-icon name="alert-sharp"></ion-icon></span>
+    <h1>El código qr ya ha sido usado.</h1>
+  </div>
+
+  <ion-fab vertical="top" horizontal="start" slot="fixed" [hidden]="scanActive">
+    <ion-fab-button color="light" data-desc="Limpiar" (click)="Limpiar()">
+      <img id=titulo src="assets/home/limpiar.png" style="height: 40px;width: 40px;">
+    </ion-fab-button>
+  </ion-fab>
+
+</ion-content>
