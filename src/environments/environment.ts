@@ -5,14 +5,7 @@
 export const environment = {
   production: false,
   firebaseConfig :{
-    apiKey: "AIzaSyAzfZN1Jqdbm5-bpDrBCRlbhZrpALTNVhU",
-    authDomain: "bd-aplicaciones-pps.firebaseapp.com",
-    databaseURL: "https://bd-aplicaciones-pps.firebaseio.com",
-    projectId: "bd-aplicaciones-pps",
-    storageBucket: "bd-aplicaciones-pps.appspot.com",
-    messagingSenderId: "992452426073",
-    appId: "1:992452426073:web:6c93369d5c9a4ed7707448",
-    measurementId: "G-N7RHKPYJZ5"
+    /*firebase key*/
   }
 };
 
