@@ -14,7 +14,10 @@ Verificar que el código QR esté almacenado en la base de datos.
 
 Agregar un botón para limpiar los créditos cargados del usuario.
 
+
 8c95def646b6127282ed50454b73240300dccabc =10
+
 ae338e4e0cbb4e4bcffaf9ce5b409feb8edd5172 = 50
+
 2786f4877b9091dcad7f35751bfcf5d5ea712b2f =100
 
