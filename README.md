@@ -21,4 +21,12 @@ ae338e4e0cbb4e4bcffaf9ce5b409feb8edd5172 = 50
 
 2786f4877b9091dcad7f35751bfcf5d5ea712b2f =100
 
+100
 ![image](https://user-images.githubusercontent.com/36265058/126410884-5877577a-2281-416b-8143-a246901b3bc3.png)
+
+50
+![image](https://user-images.githubusercontent.com/36265058/126410910-57fe9886-6a96-4165-bedd-64388e6cb160.png)
+
+10
+![image](https://user-images.githubusercontent.com/36265058/126410916-e8f9d323-79c4-4af0-a982-aeac5e4fd399.png)
+
