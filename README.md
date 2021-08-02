@@ -5,3 +5,8 @@
     <td><img src="./src/assets/credito2.png"></td>
   </tr>
 </table>
+
+
+<p>Ingresar un usuario. (registrado en BD)</p>
+<p>La aplicación permite escanear un código QR (encriptado) que acumula créditos.</p>
+
