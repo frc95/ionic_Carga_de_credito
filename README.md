@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><img src="./src/assets/credito1.png" height="1135" width="540"></td>
-    <td><img src="./src/assets/credito2.png"></td>
+    <td><img src="./src/assets/credito2.png" height="1135" width="540"></td>
   </tr>
 </table>
 
