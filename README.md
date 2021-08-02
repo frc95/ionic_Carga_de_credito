@@ -16,3 +16,7 @@ acumularlo, pero si lo intenta hacer más de dos veces no se le permitirá y se 
 Verificar que el código QR esté almacenado en la base de datos.<br>
 Agregar un botón para limpiar los créditos cargados del usuario.</p>
 
+<p><strong>8c95def646b6127282ed50454b73240300dccabc =10<br>
+ae338e4e0cbb4e4bcffaf9ce5b409feb8edd5172 = 50<br>
+2786f4877b9091dcad7f35751bfcf5d5ea712b2f =100</strong></p>
+
