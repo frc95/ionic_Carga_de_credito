@@ -26,4 +26,9 @@ ae338e4e0cbb4e4bcffaf9ce5b409feb8edd5172 = 50<br>
     <td><img src="https://user-images.githubusercontent.com/36265058/127918037-f0863188-c822-414f-a004-d653c1fd001e.png"></td>
     <td><img src="https://user-images.githubusercontent.com/36265058/127918077-3f839bdf-2e0f-4f54-8381-7c1ef892e939.png"></td>
   </tr>
+  <tr>
+    <td>100</td>
+    <td>50</td>
+    <td>10</td>
+  </tr>
 </table>
