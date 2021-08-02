@@ -20,3 +20,9 @@ Agregar un botón para limpiar los créditos cargados del usuario.</p>
 ae338e4e0cbb4e4bcffaf9ce5b409feb8edd5172 = 50<br>
 2786f4877b9091dcad7f35751bfcf5d5ea712b2f =100</strong></p>
 
+<table>
+  <tr>
+    <td>![image](https://user-images.githubusercontent.com/36265058/127917674-67fe1092-0793-4982-8225-ac74a9404078.png)</td>
+    <td></td>
+  </tr>
+</table>
