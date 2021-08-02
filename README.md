@@ -1,7 +1,7 @@
 # ionic_Carga_de_credito
 <table>
   <tr>
-    <td><img src="./src/assets/credito1.png" height="1135" width="540"></td>
+    <td height="1135" width="540"><img src="./src/assets/credito1.png" height="1135" width="540"></td>
     <td><img src="./src/assets/credito2.png" height="1135" width="540"></td>
   </tr>
 </table>
