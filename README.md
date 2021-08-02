@@ -7,6 +7,6 @@
 </table>
 
 
-<p>Ingresar un usuario. (registrado en BD)<br></p>
+<p>Ingresar un usuario. (registrado en BD)<br>
 La aplicación permite escanear un código QR (encriptado) que acumula créditos.</p>
 
